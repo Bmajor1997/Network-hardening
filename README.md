@@ -4,4 +4,4 @@
 Hardening Tools
 <img width="1316" alt="Screen Shot 2024-12-07 at 5 15 08 PM" src="https://github.com/user-attachments/assets/d58de877-4e09-4f4b-b1d8-860ada428a6d">
 Security Risk Assesment
-<img width="1316" alt="Screen Shot 2024-12-07 at 5 22 26 PM" src="https://github.com/user-attachments/assets/78ae6e49-10f6-4289-8a25-ad823be2d4ba">
+<img width="1316" alt="Screen Shot 2024-12-07 at 6 20 25 PM" src="https://github.com/user-attachments/assets/e8ab858e-6beb-4bb5-8326-d2e2093af080">
