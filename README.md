@@ -1,4 +1,6 @@
 <h2> Network Harding Project 
+<h2> Description:</h2>
+ In this lab we need to select select techniques that will help strengthen the security network from threat actors. We have a list of hardening techniques to choose from, We need to select three and explain how and why those are the best for strengthening the security posture of the company. 
 <h2> Scenario
 <h2><img width="993" alt="Screen Shot 2024-12-07 at 5 15 24 PM" src="https://github.com/user-attachments/assets/72d3de37-7dee-4c0d-a776-c2471251a774">
 Hardening Tools
